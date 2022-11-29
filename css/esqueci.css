@@ -1,0 +1,52 @@
+input[type=senha]{
+    padding: 10px 10px;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    outline: none;
+    border-radius: 60px 60px;
+    margin-top: 20px;
+}
+input[type=email]{
+    margin-top: 20px;
+    padding: 10px 10px;
+    display: inline-block;
+    text-align: left;
+    font-size: 15px;
+    outline: none;
+    border-radius: 60px 60px;
+}
+
+.esqueciASenha{
+    margin-top: 10px;
+    border: solid 4px rgba(53, 52, 52, 0.5);
+    width: 400px;
+    height: 290px;
+    border-radius: 20px 20px;
+    background-image: url(/MyDrugs/img/teladelogin.png);
+    background-size: cover;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 10px;
+    display: inline-block;
+}
+.esqueci{
+    text-align: center;
+    width: 32%;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 20px 20px;
+    border: 2px solid #696969;
+    height: 320px;
+    background-color: #C0C0C0;
+
+}
+.esqueci p{
+    color: #FFFFFF;
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+}
+.pcodigo{
+    color: red;
+    display: inline-block;
+}

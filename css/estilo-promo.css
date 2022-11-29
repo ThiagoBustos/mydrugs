@@ -1,0 +1,22 @@
+.perfil{
+    background-image: url(../img/draken.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 100px 100px;
+    float: left;
+    width: 80px;
+    height: 80px;
+	margin-left: 10px;
+}
+.box-de-manutencao{
+	color: red;
+	width: 100%;
+	height: 100px;
+	background-color: white;
+}
+.box-de-manutencao p h1{
+	margin-left: 10px;
+}

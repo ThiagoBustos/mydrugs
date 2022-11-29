@@ -1,0 +1,50 @@
+.box-branca{ /*Box branca ou seja a seção do site que fica os dados*/
+    width: 90%;
+    height: auto;
+    background-color: white;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 16px 16px rgba(0, 0, 0, 0.46);
+}
+.box-branca p, li{
+    font-size: 18px;
+}
+.box-branca p{
+    margin-top: 22px;
+}
+.box-branca li{
+    margin-top: 5px;
+}
+
+.gif-galaxy{
+    margin-top: 10px;
+    width: 100%;
+    height: 15px;
+    display: inline-block;
+}
+.alinhamento02{
+    margin-left: 20px;
+
+}
+.alinhamento02 ul{
+    margin-left: 50px;
+}
+
+.perfil{
+    background-image: url(../img/draken.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+    border-radius: 100px 100px;
+    float: left;
+    width: 80px;
+    height: 80px;
+}
+h1, h2, h4, h5{
+    margin-left: 100px;
+}
+.data{
+    color: green
+}
